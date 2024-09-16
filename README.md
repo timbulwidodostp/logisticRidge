@@ -1,6 +1,8 @@
 # logisticRidge
 Logistic ridge regression Use logisticRidge With (In) R Software
 
+https://www.youtube.com/watch?v=JNG0YyMzQuI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
